@@ -6,12 +6,12 @@ required:python 2.7 , g++ 5.4.0
 
 HOW TO USE:
 
-cd ~
+  cd ~
 
-./GL_init.sh
+  ./GL_init.sh
 
-cd graph-learn
+  cd graph-learn
 
-git submodule update --init
+  git submodule update --init
 
 follow-up:https://github.com/alibaba/graph-learn/blob/master/docs/install_en.md
