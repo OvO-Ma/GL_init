@@ -10,6 +10,7 @@ echo '安装必需的python第三方库'
 sudo apt-get install python-pip
 pip install --upgrade pip
 sudo pip install enum
+sudo pip install scipy
 sudo pip install tensorflow==1.12
 echo '安装git'
 sudo apt-get purge runit
