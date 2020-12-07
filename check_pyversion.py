@@ -3,7 +3,6 @@
 import sys
 import re
 import os
-import time
 
 def check_py():
 	py_v = sys.version[0:3]
