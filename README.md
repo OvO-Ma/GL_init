@@ -12,7 +12,7 @@ HOW TO USE:
 
   ./GL_init.sh
 
-  cd graph-learn
+  cd graph-learn/
 
   git submodule update --init
 
