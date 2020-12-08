@@ -6,8 +6,12 @@ required:python 2.7 , g++ 5.4.0
 
 HOW TO USE:
 
-  sudo mv GL_init ~
+  cd ~
 
+  git clone https://github.com/OvO-Ma/GL_init.git
+
+  sudo mv GL_init.sh ~
+  
   cd ~
 
   ./GL_init.sh
