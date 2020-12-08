@@ -7,7 +7,7 @@ echo '192.30.255.112  github.com git
 185.31.16.184 github.global.ssl.fastly.net'>>/etc/hosts
 sudo /etc/init.d/networking restart
 echo '检查python版本'
-sudo python check_pyversion.py
+sudo python GL_init/check_pyversion.py
 echo '安装必需的python第三方库'
 sudo apt-get install python-pip
 pip install --upgrade pip
