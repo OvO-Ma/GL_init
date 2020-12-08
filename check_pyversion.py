@@ -23,7 +23,7 @@ def check_py():
 			print('NO PYTHON 2.7 IN SYSTEM\nSTART INSTALL PYTHON 2.7')
 			os.system('sudo apt-get install python2.7')
 			os.system('sudo apt update')
-			os.system('sudo apt install python-pipsudo apt install python-pip')
+			os.system('sudo apt install python-pip')
 			os.system('pip install --upgrade pip')
 			os.system('sudo ln -s -f /usr/bin/python2.7 /usr/bin/python')
 			print('INSTALLING DONE')
