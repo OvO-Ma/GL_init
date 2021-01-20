@@ -6,13 +6,13 @@ required:python 2.7 , g++ 5.4.0
 
 HOW TO USE:
 
-  cd ~
-
   git clone https://github.com/OvO-Ma/GL_init.git
 
   sudo mv GL_init.sh ~
   
   cd ~
+  
+  sudo chmod +x GL_init.sh 
 
   ./GL_init.sh
 
