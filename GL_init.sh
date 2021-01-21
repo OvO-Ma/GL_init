@@ -14,13 +14,6 @@ pip install --upgrade pip
 sudo pip install enum
 sudo pip install scipy
 sudo pip install tensorflow==1.12
-echo '安装git'
-sudo apt-get purge runit
-sudo apt-get purge git-all
-sudo apt-get purge git
-sudo apt-get autoremove
-sudo apt update
-sudo apt install git
 sudo apt-get install autoconf automake libtool cmake python-numpy
 echo '安装GL.git'
 git clone https://github.com/alibaba/graph-learn.git
