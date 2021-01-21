@@ -16,4 +16,4 @@ sudo pip install scipy
 sudo pip install tensorflow==1.12
 sudo apt-get install autoconf automake libtool cmake python-numpy
 echo '安装GL.git'
-git clone https://github.com/alibaba/graph-learn.git
+sudo git clone https://github.com/alibaba/graph-learn.git
